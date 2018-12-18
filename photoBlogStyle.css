@@ -6,4 +6,11 @@ img{
     border: 1px solid black;
 }
 
-/*font-family: 'Major Mono Display', monospace;
+h1{
+    font-family: 'Major Mono Display', monospace;
+    font-size: 5.0em;
+    text-align: center;
+    border-bottom: 1px solid darkgray;
+    padding-bottom: 10px;
+   
+}
